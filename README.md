@@ -8,6 +8,11 @@ tape width, and reports where and how wrinkles are expected to form.
 
 Implementation: `wrinkle_predictor.py`.
 
+## Example output
+
+![Curved tape wrinkle analysis](curved_tape_wrinkles_analysis.png)
+![Curved tape wrinkle analysis 2](curved_tape_wrinkles_analysis2.png)
+
 ## Criterion
 
 ```
